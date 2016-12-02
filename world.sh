@@ -1,1 +1,1 @@
-echo "From the other side"
+echo "From the other side"echo "BYE"
